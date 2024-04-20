@@ -21,4 +21,8 @@ f) napísat funkciu H2(z)
 ![image](https://github.com/AnhelinaKyrylova/N-vrh-slicov-ch-filtrov/assets/125809414/835ec5c9-8dde-4085-bf70-9e2b532e0d38)
 
 ![image](https://github.com/AnhelinaKyrylova/N-vrh-slicov-ch-filtrov/assets/125809414/0eb4ab37-c94c-4a70-9069-77565e697a87)
-Dostali sme zadanú medznú a vzorkovaciu frekvenciu z ktorých sme získali potrebnú medznú frekvenciu Ω. Pridaním dvojice komplexne zdruzenych polov zlepšili vychod filtra.
+
+
+
+Dostali sme zadanú medznú a vzorkovaciu frekvenciu z ktorých sme získali potrebnú medznú frekvenciu Ω. 
+Pridaním dvojice komplexne zdruzenych polov zlepšili vychod filtra.
